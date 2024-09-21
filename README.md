@@ -43,7 +43,7 @@ Special thanks to the doctors who created and approved of this data, and all the
 
 
 ## Screenshot of the web application
-![Screenshot of app](C:\Users\sulim\OneDrive\Desktop\Alzheimers Project\Early-Diagnosis-Tool-for-Alzheimer-s-Detection\webapp screenshot.png) 
+[![Screenshot of app](Early-Diagnosis-Tool-for-Alzheimer-s-Detection\webapp screenshot.png)]
 
 
 
