@@ -31,7 +31,7 @@ Scikit-learn
 , Pandas, NumPy
 , Matplotlib, Seaborn, joblib, Streamlit
 * Tools:
-Google Colab,
+Jupyter Notebook,
 Git 
  
 ## 🤝 Contributing
@@ -41,3 +41,6 @@ Contributions are welcome! If you want to contribute to improving the tool or ex
 ## 🙌 Acknowledgements
 Special thanks to the doctors who created and approved of this data, and all the open-source contributors whose work made this project possible!
 
+### To use the tool you need to install some dependencies.
+```bash
+pip install -r requirements.txt
