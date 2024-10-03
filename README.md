@@ -1,5 +1,10 @@
 # 🧠 Early Diagnosis Tool for Alzheimer's Detection
 Detect Alzheimer's Disease in its critical stages (Stage 3 & 4)
+## Our Team
+* Suliman Abusamak
+* Mohammad Abuhajar
+* Huda Saffo
+* Abdalgani jaara
 
 ## 🚀 What It Does
 This tool leverages advanced machine learning algorithms to detect whether a person may have Alzheimer's in the third or fourth stage, using MMSE,Functional Assessment, ADL tests and other simple questions. By identifying Alzheimer's in these critical stages, we aim to aid in early intervention and support for affected individuals.
