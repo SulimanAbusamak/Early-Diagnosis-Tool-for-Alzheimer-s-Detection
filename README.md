@@ -1,6 +1,6 @@
 # 🧠 Early Diagnosis Tool for Alzheimer's Detection
 Detect Alzheimer's Disease in its critical stages (Stage 3 & 4)
-## Our Team
+## 👥 Our Team
 * Suliman Abusamak
 * Mohammad Abuhajar
 * Huda Saffo
